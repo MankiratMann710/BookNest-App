@@ -119,4 +119,5 @@ BookNest showcases my ability to build practical, scalable applications that com
 ---
 
 ## 🎥 Demo
-[![BookNest Demo](https://youtube.com/shorts/7zfSZHZeoTo](https://youtu.be/FMYDMg9ox-o))
+
+[![BookNest Demo](https://img.youtube.com/vi/FMYDMg9ox-o/0.jpg)](https://youtu.be/FMYDMg9ox-o)
